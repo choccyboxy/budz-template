@@ -1,0 +1,8 @@
+{
+  "default_prefix": "!",
+  "test_guild": "",
+  "log_channel": "",
+  "dev_ids": [""],
+  "dev_igns": [""],
+  "default_cooldown": 3
+}

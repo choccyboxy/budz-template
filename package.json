@@ -1,0 +1,24 @@
+{
+  "name": "rce-discord-bot-template",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "keywords": [],
+  "author": "chpccyboxy",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5",
+    "glob": "^11.0.0",
+    "pg": "^8.13.0",
+    "rce.js": "github:b1nzeex/rce.js",
+    "sequelize": "^6.37.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
